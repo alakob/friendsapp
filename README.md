@@ -1,3 +1,3 @@
 # Friends List App
 
-Forked from https://github.com/flatplanet/railsfriends
+Source: https://github.com/flatplanet/railsfriends
